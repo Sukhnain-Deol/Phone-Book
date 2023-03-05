@@ -3,4 +3,4 @@
 - Functionality
   - This program allows user to simulate the functionality of a phone
   - You can add a name, address, city and phonenumber to each record
-  - Then you can also edit, delete, or view the phonebook
+  - Then you can also edit, search, delete, or view the phonebook
